@@ -1,6 +1,7 @@
 # WEC-Systems-Rec-Crypto
 This is the code for WEC NITK 2020 Systems Recruitment, and is for the Cryptography task.
-The code is done in python, taking the required single line input and giving the required output, which is also attached in a text file.
+The code is done in python, taking the required single line input and giving the required output, which is also attached in a text file. It implements the decoding functions for the following ciphers:
+Base64 decoder, ROT13 cipher, Caeser Cipher, Vigenere Cipher and the Playfair Cipher.
 
 ## Problem Statement
 ### Cryptography
